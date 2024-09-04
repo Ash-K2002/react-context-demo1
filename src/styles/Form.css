@@ -1,0 +1,23 @@
+.panel{
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.panel-dark{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+}
+
+button{
+    margin: 2px;
+}
+
+.button-dark{
+    border: 2px solid aliceblue;
+    border-radius: 10%;
+    background-color: black;
+    color: white;
+}
